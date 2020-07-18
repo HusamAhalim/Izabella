@@ -44,9 +44,9 @@ padding: 30px;
 }
 
 .info {
-    padding-right: 200px;
+    /* padding-right: 200px;
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 200px; */
     background-color: rgb(180, 228, 168);
     margin-top: 5%;
     text-align: center;
