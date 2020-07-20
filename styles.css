@@ -2,14 +2,14 @@ body{
     background-color: rgb(235, 157, 205);
 }
 
-.title{
+/* .title{
 padding-top: 25px;
 padding-right: 300px;
 padding-left: 300px;
 
 
    
-}
+} */
     
 .nav-link {
 font-weight: bold;
@@ -89,9 +89,9 @@ font-size: 25px;
     
 .phototitle{
     text-align: center;
-   
+   padding: 10px;
     font-family: 'Satisfy', cursive;
-    font-size: 200px;
+    font-size: 150px;
 
 }
 
@@ -121,13 +121,13 @@ margin-top: 100px;
     height: 100px;
     border: 3px solid white;
     box-shadow: 0px 0px 8px rgba(0,0,0,.3);
-    margin-right: %;
+    
     }
      
     
 
     .lightbox2 img {
-        height: 150px;
+        height: 100px;
         border: 3px solid white;
         box-shadow: 0px 0px 8px rgba(0,0,0,.3);
         margin: 25px;
@@ -137,15 +137,11 @@ margin-top: 100px;
 
 
     /* photo pos */
-    .photoRow1 {
+    .
 
-        margin-left: %;   
-    
-    }
-
-    #photoTop {
+    /* #photoTop {
         align-content: center;
-    }
+    } */
 
   
 .cr {
