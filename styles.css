@@ -78,6 +78,10 @@ font-size: 25px;
     background-color: white;
 }
 
+.vidFile {
+    margin-bottom: -10px;
+}
+
 #BG {
     font-size: 75px;
 }
