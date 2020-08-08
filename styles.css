@@ -57,12 +57,13 @@ li{
 
 
 .main {
+    height: 20%;
     padding: 25px;
     
     
     float: left;
     margin: 50px;
-    margin-left: 200px;
+    margin-left: 100px;
     
     border: 3px solid white;
     box-shadow: 0px 0px 8px rgba(0,0,0,.3);
@@ -115,8 +116,8 @@ li{
 #play {
     font-family:'Bilbo Swash Caps', cursive;
    font-weight: bold;
-   font-size: 25px;
-  padding-left: 50%;
+   font-size: 40px;
+  padding-left: 40%;
     
 }
 
