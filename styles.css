@@ -6,6 +6,7 @@ body{
 
    
 .navbar-brand{
+    
     margin-right: -10%;
     font-size: 50px;
     font-family:'Bilbo Swash Caps', cursive; 
@@ -74,7 +75,7 @@ li{
 
 .info {
    
-    border: 5px white solid;
+    border: 5px #f8f9fa solid;
     background-color: rgb(180, 228, 168);
     margin-top: 5%;
     text-align: center;
@@ -128,7 +129,7 @@ margin-left:50%;
  
 
  a {
-     border: 5px white solid;
+     border: 5px #f8f9fa solid;
      width: 30%;
      float: left;
      margin: 1.66%;
