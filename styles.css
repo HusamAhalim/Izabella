@@ -2,14 +2,6 @@ body{
     background-color: rgb(235, 157, 205);
 }
 
-/* .title{
-padding-top: 25px;
-padding-right: 300px;
-padding-left: 300px;
-
-
-   
-} */
 
 
    
@@ -58,7 +50,7 @@ li{
 
 
 .main {
-    height: 20%;
+    height: 25%;
     padding: 25px;
     
     
